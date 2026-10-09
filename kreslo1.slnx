@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="MyStore.Bll/MyStore.Bll.csproj" />
+  <Project Path="MyStore.Core/MyStore.Core.csproj" />
+  <Project Path="MyStore.Dal/MyStore.Dal.csproj" />
+  <Project Path="MyStore.Mvc/MyStore.Mvc.csproj" />
+</Solution>

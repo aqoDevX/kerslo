@@ -1,0 +1,11 @@
+C:\Users\user\source\repos\kreslo1\MyStore.Core\bin\Debug\net8.0\MyStore.Core.deps.json
+C:\Users\user\source\repos\kreslo1\MyStore.Core\bin\Debug\net8.0\MyStore.Core.dll
+C:\Users\user\source\repos\kreslo1\MyStore.Core\bin\Debug\net8.0\MyStore.Core.pdb
+C:\Users\user\source\repos\kreslo1\MyStore.Core\obj\Debug\net8.0\MyStore.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\kreslo1\MyStore.Core\obj\Debug\net8.0\MyStore.Core.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\kreslo1\MyStore.Core\obj\Debug\net8.0\MyStore.Core.AssemblyInfo.cs
+C:\Users\user\source\repos\kreslo1\MyStore.Core\obj\Debug\net8.0\MyStore.Core.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\kreslo1\MyStore.Core\obj\Debug\net8.0\MyStore.Core.dll
+C:\Users\user\source\repos\kreslo1\MyStore.Core\obj\Debug\net8.0\refint\MyStore.Core.dll
+C:\Users\user\source\repos\kreslo1\MyStore.Core\obj\Debug\net8.0\MyStore.Core.pdb
+C:\Users\user\source\repos\kreslo1\MyStore.Core\obj\Debug\net8.0\ref\MyStore.Core.dll

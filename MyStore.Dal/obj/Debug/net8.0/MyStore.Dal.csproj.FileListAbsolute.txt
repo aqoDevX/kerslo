@@ -1,0 +1,17 @@
+C:\Users\user\source\repos\kreslo1\MyStore.Dal\bin\Debug\net8.0\MyStore.Dal.deps.json
+C:\Users\user\source\repos\kreslo1\MyStore.Dal\bin\Debug\net8.0\MyStore.Dal.runtimeconfig.json
+C:\Users\user\source\repos\kreslo1\MyStore.Dal\bin\Debug\net8.0\MyStore.Dal.dll
+C:\Users\user\source\repos\kreslo1\MyStore.Dal\bin\Debug\net8.0\MyStore.Dal.pdb
+C:\Users\user\source\repos\kreslo1\MyStore.Dal\bin\Debug\net8.0\MyStore.Core.dll
+C:\Users\user\source\repos\kreslo1\MyStore.Dal\bin\Debug\net8.0\MyStore.Core.pdb
+C:\Users\user\source\repos\kreslo1\MyStore.Dal\obj\Debug\net8.0\MyStore.Dal.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\kreslo1\MyStore.Dal\obj\Debug\net8.0\MyStore.Dal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\kreslo1\MyStore.Dal\obj\Debug\net8.0\MyStore.Dal.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\kreslo1\MyStore.Dal\obj\Debug\net8.0\MyStore.Dal.AssemblyInfo.cs
+C:\Users\user\source\repos\kreslo1\MyStore.Dal\obj\Debug\net8.0\MyStore.Dal.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\kreslo1\MyStore.Dal\obj\Debug\net8.0\MyStore..F37AE352.Up2Date
+C:\Users\user\source\repos\kreslo1\MyStore.Dal\obj\Debug\net8.0\MyStore.Dal.dll
+C:\Users\user\source\repos\kreslo1\MyStore.Dal\obj\Debug\net8.0\refint\MyStore.Dal.dll
+C:\Users\user\source\repos\kreslo1\MyStore.Dal\obj\Debug\net8.0\MyStore.Dal.pdb
+C:\Users\user\source\repos\kreslo1\MyStore.Dal\obj\Debug\net8.0\MyStore.Dal.genruntimeconfig.cache
+C:\Users\user\source\repos\kreslo1\MyStore.Dal\obj\Debug\net8.0\ref\MyStore.Dal.dll
